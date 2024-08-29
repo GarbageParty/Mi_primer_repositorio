@@ -2,7 +2,7 @@
   </div>
 <br>
 <br>
-<div align="center">Bienvenido a Proyecto Primer Repositorio 🚀, una aplicación que hará tu vida más fácil y divertida. Este repositorio contiene todo el código fuente y documentación necesaria para entender y contribuir a este proyecto.
+<div align="center">🚀 Bienvenido a Proyecto Primer Repositorio, una aplicación que hará tu vida más fácil y divertida. Este repositorio contiene todo el código fuente y documentación necesaria para entender y contribuir a este proyecto.
 <br>
 <br>
   </div>
