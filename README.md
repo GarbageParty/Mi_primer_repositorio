@@ -24,7 +24,7 @@ Proyecto Primer Repositorio es una herramienta diseñada para usar como practica
 <br>
 <br>
 <br>
-Facebook GarbageParty: 2px 2px 7px 1px #2A6BCE;
+<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">Facebook GarbageParty: 2px 2px 7px 1px #2A6BCE;
 <br>
 Youtube GarbageParty: 2px 2px 7px 1px #CE2A2A;
 <br>
