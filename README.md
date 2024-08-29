@@ -7,8 +7,8 @@
 <br>
   </div>
 
-📚 Contenidos
-<div align="center">Descripción: Información sobre qué hace la aplicación.
+<div align="center">📚 Contenidos
+Descripción: Información sobre qué hace la aplicación.
 Características: Funcionalidades principales.
 Instalación: Cómo configurar el proyecto en tu entorno.
 Uso: Guía para comenzar a usar la aplicación.
