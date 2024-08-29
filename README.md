@@ -20,12 +20,3 @@ Licencia: Términos bajo los cuales se distribuye el proyecto.
 
 <div align="center">📜 Descripción
 Proyecto Primer Repositorio es una herramienta diseñada para usar como practica de un primer repositorio. Con esta aplicación, podrás visualizar tu primer repositorio en github.
-</div>
-<br>
-<br>
-<br>
-<div style="background-color: #f0f0f0; border: 1px solid #ccc; padding: 10px; border-radius: 5px;">Facebook GarbageParty: 2px 2px 7px 1px #2A6BCE;
-<br>
-Youtube GarbageParty: 2px 2px 7px 1px #CE2A2A;
-<br>
-X GarbageParty: 2px 2px 7px 1px #000000;
